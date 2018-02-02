@@ -1,0 +1,4 @@
+{
+  "Test_Allure/test_001.py::Test_Abc::()::test_al": true,
+  "scripts/test_search.py::Test_Search_Page::()::test_input_text[search_002-\\u4e2d\\u6587-123]": true
+}
